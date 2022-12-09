@@ -1,0 +1,5 @@
+num_a = int(input('Введите число a: '))
+num_b = int(input('Введите число b: '))
+num_c = int(input('Введите число c: '))
+num_m = max(num_a, num_b, num_c)
+print('Число m (максимальное из ранее введенных):', num_m)
